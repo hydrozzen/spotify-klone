@@ -20,6 +20,17 @@ let songs = [
     {songName: "ikko mikke ", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName: "Keh lund dae", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
     {songName: "lut gyae", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
+    // ab apne daaaalne hai
+    {songName: "lut gyae", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
+    {songName: "AAkhae kaehti hai lund lae lo", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
+    {songName: "hum-udd gyae", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
+    {songName: "dharkhast", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName: "Desh mere rae abaad rhae  ", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
+    {songName: "Dil baechara", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
+    {songName: "Elevated", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName: "filhahal", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
+    {songName: "ikko mikke ", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
+    {songName: "Keh lund dae", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
